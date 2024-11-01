@@ -1,0 +1,577 @@
+team_name,year
+San Francisco 49ers,2028
+San Francisco 49ers,2027
+San Francisco 49ers,2026
+San Francisco 49ers,2025
+San Francisco 49ers,2024
+San Francisco 49ers,2023
+San Francisco 49ers,2022
+San Francisco 49ers,2021
+San Francisco 49ers,2020
+San Francisco 49ers,2019
+San Francisco 49ers,2018
+San Francisco 49ers,2017
+San Francisco 49ers,2016
+San Francisco 49ers,2015
+San Francisco 49ers,2014
+San Francisco 49ers,2013
+San Francisco 49ers,2012
+San Francisco 49ers,2011
+Cleveland Browns,2028
+Cleveland Browns,2027
+Cleveland Browns,2026
+Cleveland Browns,2025
+Cleveland Browns,2024
+Cleveland Browns,2023
+Cleveland Browns,2022
+Cleveland Browns,2021
+Cleveland Browns,2020
+Cleveland Browns,2019
+Cleveland Browns,2018
+Cleveland Browns,2017
+Cleveland Browns,2016
+Cleveland Browns,2015
+Cleveland Browns,2014
+Cleveland Browns,2013
+Cleveland Browns,2012
+Cleveland Browns,2011
+New England Patriots,2028
+New England Patriots,2027
+New England Patriots,2026
+New England Patriots,2025
+New England Patriots,2024
+New England Patriots,2023
+New England Patriots,2022
+New England Patriots,2021
+New England Patriots,2020
+New England Patriots,2019
+New England Patriots,2018
+New England Patriots,2017
+New England Patriots,2016
+New England Patriots,2015
+New England Patriots,2014
+New England Patriots,2013
+New England Patriots,2012
+New England Patriots,2011
+Dallas Cowboys,2028
+Dallas Cowboys,2027
+Dallas Cowboys,2026
+Dallas Cowboys,2025
+Dallas Cowboys,2024
+Dallas Cowboys,2023
+Dallas Cowboys,2022
+Dallas Cowboys,2021
+Dallas Cowboys,2020
+Dallas Cowboys,2019
+Dallas Cowboys,2018
+Dallas Cowboys,2017
+Dallas Cowboys,2016
+Dallas Cowboys,2015
+Dallas Cowboys,2014
+Dallas Cowboys,2013
+Dallas Cowboys,2012
+Dallas Cowboys,2011
+Miami Dolphins,2028
+Miami Dolphins,2027
+Miami Dolphins,2026
+Miami Dolphins,2025
+Miami Dolphins,2024
+Miami Dolphins,2023
+Miami Dolphins,2022
+Miami Dolphins,2021
+Miami Dolphins,2020
+Miami Dolphins,2019
+Miami Dolphins,2018
+Miami Dolphins,2017
+Miami Dolphins,2016
+Miami Dolphins,2015
+Miami Dolphins,2014
+Miami Dolphins,2013
+Miami Dolphins,2012
+Miami Dolphins,2011
+Las Vegas Raiders,2028
+Las Vegas Raiders,2027
+Las Vegas Raiders,2026
+Las Vegas Raiders,2025
+Las Vegas Raiders,2024
+Las Vegas Raiders,2023
+Las Vegas Raiders,2022
+Las Vegas Raiders,2021
+Las Vegas Raiders,2020
+Las Vegas Raiders,2019
+Las Vegas Raiders,2018
+Las Vegas Raiders,2017
+Las Vegas Raiders,2016
+Las Vegas Raiders,2015
+Las Vegas Raiders,2014
+Las Vegas Raiders,2013
+Las Vegas Raiders,2012
+Las Vegas Raiders,2011
+Tampa Bay Buccaneers,2028
+Tampa Bay Buccaneers,2027
+Tampa Bay Buccaneers,2026
+Tampa Bay Buccaneers,2025
+Tampa Bay Buccaneers,2024
+Tampa Bay Buccaneers,2023
+Tampa Bay Buccaneers,2022
+Tampa Bay Buccaneers,2021
+Tampa Bay Buccaneers,2020
+Tampa Bay Buccaneers,2019
+Tampa Bay Buccaneers,2018
+Tampa Bay Buccaneers,2017
+Tampa Bay Buccaneers,2016
+Tampa Bay Buccaneers,2015
+Tampa Bay Buccaneers,2014
+Tampa Bay Buccaneers,2013
+Tampa Bay Buccaneers,2012
+Tampa Bay Buccaneers,2011
+Detroit Lions,2028
+Detroit Lions,2027
+Detroit Lions,2026
+Detroit Lions,2025
+Detroit Lions,2024
+Detroit Lions,2023
+Detroit Lions,2022
+Detroit Lions,2021
+Detroit Lions,2020
+Detroit Lions,2019
+Detroit Lions,2018
+Detroit Lions,2017
+Detroit Lions,2016
+Detroit Lions,2015
+Detroit Lions,2014
+Detroit Lions,2013
+Detroit Lions,2012
+Detroit Lions,2011
+Arizona Cardinals,2028
+Arizona Cardinals,2027
+Arizona Cardinals,2026
+Arizona Cardinals,2025
+Arizona Cardinals,2024
+Arizona Cardinals,2023
+Arizona Cardinals,2022
+Arizona Cardinals,2021
+Arizona Cardinals,2020
+Arizona Cardinals,2019
+Arizona Cardinals,2018
+Arizona Cardinals,2017
+Arizona Cardinals,2016
+Arizona Cardinals,2015
+Arizona Cardinals,2014
+Arizona Cardinals,2013
+Arizona Cardinals,2012
+Arizona Cardinals,2011
+Los Angeles Rams,2028
+Los Angeles Rams,2027
+Los Angeles Rams,2026
+Los Angeles Rams,2025
+Los Angeles Rams,2024
+Los Angeles Rams,2023
+Los Angeles Rams,2022
+Los Angeles Rams,2021
+Los Angeles Rams,2020
+Los Angeles Rams,2019
+Los Angeles Rams,2018
+Los Angeles Rams,2017
+Los Angeles Rams,2016
+Los Angeles Rams,2015
+Los Angeles Rams,2014
+Los Angeles Rams,2013
+Los Angeles Rams,2012
+Los Angeles Rams,2011
+Washington Commanders,2028
+Washington Commanders,2027
+Washington Commanders,2026
+Washington Commanders,2025
+Washington Commanders,2024
+Washington Commanders,2023
+Washington Commanders,2022
+Washington Commanders,2021
+Washington Commanders,2020
+Washington Commanders,2019
+Washington Commanders,2018
+Washington Commanders,2017
+Washington Commanders,2016
+Washington Commanders,2015
+Washington Commanders,2014
+Washington Commanders,2013
+Washington Commanders,2012
+Washington Commanders,2011
+Pittsburgh Steelers,2028
+Pittsburgh Steelers,2027
+Pittsburgh Steelers,2026
+Pittsburgh Steelers,2025
+Pittsburgh Steelers,2024
+Pittsburgh Steelers,2023
+Pittsburgh Steelers,2022
+Pittsburgh Steelers,2021
+Pittsburgh Steelers,2020
+Pittsburgh Steelers,2019
+Pittsburgh Steelers,2018
+Pittsburgh Steelers,2017
+Pittsburgh Steelers,2016
+Pittsburgh Steelers,2015
+Pittsburgh Steelers,2014
+Pittsburgh Steelers,2013
+Pittsburgh Steelers,2012
+Pittsburgh Steelers,2011
+Indianapolis Colts,2028
+Indianapolis Colts,2027
+Indianapolis Colts,2026
+Indianapolis Colts,2025
+Indianapolis Colts,2024
+Indianapolis Colts,2023
+Indianapolis Colts,2022
+Indianapolis Colts,2021
+Indianapolis Colts,2020
+Indianapolis Colts,2019
+Indianapolis Colts,2018
+Indianapolis Colts,2017
+Indianapolis Colts,2016
+Indianapolis Colts,2015
+Indianapolis Colts,2014
+Indianapolis Colts,2013
+Indianapolis Colts,2012
+Indianapolis Colts,2011
+New York Giants,2028
+New York Giants,2027
+New York Giants,2026
+New York Giants,2025
+New York Giants,2024
+New York Giants,2023
+New York Giants,2022
+New York Giants,2021
+New York Giants,2020
+New York Giants,2019
+New York Giants,2018
+New York Giants,2017
+New York Giants,2016
+New York Giants,2015
+New York Giants,2014
+New York Giants,2013
+New York Giants,2012
+New York Giants,2011
+Jacksonville Jaguars,2028
+Jacksonville Jaguars,2027
+Jacksonville Jaguars,2026
+Jacksonville Jaguars,2025
+Jacksonville Jaguars,2024
+Jacksonville Jaguars,2023
+Jacksonville Jaguars,2022
+Jacksonville Jaguars,2021
+Jacksonville Jaguars,2020
+Jacksonville Jaguars,2019
+Jacksonville Jaguars,2018
+Jacksonville Jaguars,2017
+Jacksonville Jaguars,2016
+Jacksonville Jaguars,2015
+Jacksonville Jaguars,2014
+Jacksonville Jaguars,2013
+Jacksonville Jaguars,2012
+Jacksonville Jaguars,2011
+Carolina Panthers,2028
+Carolina Panthers,2027
+Carolina Panthers,2026
+Carolina Panthers,2025
+Carolina Panthers,2024
+Carolina Panthers,2023
+Carolina Panthers,2022
+Carolina Panthers,2021
+Carolina Panthers,2020
+Carolina Panthers,2019
+Carolina Panthers,2018
+Carolina Panthers,2017
+Carolina Panthers,2016
+Carolina Panthers,2015
+Carolina Panthers,2014
+Carolina Panthers,2013
+Carolina Panthers,2012
+Carolina Panthers,2011
+Buffalo Bills,2028
+Buffalo Bills,2027
+Buffalo Bills,2026
+Buffalo Bills,2025
+Buffalo Bills,2024
+Buffalo Bills,2023
+Buffalo Bills,2022
+Buffalo Bills,2021
+Buffalo Bills,2020
+Buffalo Bills,2019
+Buffalo Bills,2018
+Buffalo Bills,2017
+Buffalo Bills,2016
+Buffalo Bills,2015
+Buffalo Bills,2014
+Buffalo Bills,2013
+Buffalo Bills,2012
+Buffalo Bills,2011
+Tennessee Titans,2028
+Tennessee Titans,2027
+Tennessee Titans,2026
+Tennessee Titans,2025
+Tennessee Titans,2024
+Tennessee Titans,2023
+Tennessee Titans,2022
+Tennessee Titans,2021
+Tennessee Titans,2020
+Tennessee Titans,2019
+Tennessee Titans,2018
+Tennessee Titans,2017
+Tennessee Titans,2016
+Tennessee Titans,2015
+Tennessee Titans,2014
+Tennessee Titans,2013
+Tennessee Titans,2012
+Tennessee Titans,2011
+New Orleans Saints,2028
+New Orleans Saints,2027
+New Orleans Saints,2026
+New Orleans Saints,2025
+New Orleans Saints,2024
+New Orleans Saints,2023
+New Orleans Saints,2022
+New Orleans Saints,2021
+New Orleans Saints,2020
+New Orleans Saints,2019
+New Orleans Saints,2018
+New Orleans Saints,2017
+New Orleans Saints,2016
+New Orleans Saints,2015
+New Orleans Saints,2014
+New Orleans Saints,2013
+New Orleans Saints,2012
+New Orleans Saints,2011
+Minnesota Vikings,2028
+Minnesota Vikings,2027
+Minnesota Vikings,2026
+Minnesota Vikings,2025
+Minnesota Vikings,2024
+Minnesota Vikings,2023
+Minnesota Vikings,2022
+Minnesota Vikings,2021
+Minnesota Vikings,2020
+Minnesota Vikings,2019
+Minnesota Vikings,2018
+Minnesota Vikings,2017
+Minnesota Vikings,2016
+Minnesota Vikings,2015
+Minnesota Vikings,2014
+Minnesota Vikings,2013
+Minnesota Vikings,2012
+Minnesota Vikings,2011
+Houston Texans,2028
+Houston Texans,2027
+Houston Texans,2026
+Houston Texans,2025
+Houston Texans,2024
+Houston Texans,2023
+Houston Texans,2022
+Houston Texans,2021
+Houston Texans,2020
+Houston Texans,2019
+Houston Texans,2018
+Houston Texans,2017
+Houston Texans,2016
+Houston Texans,2015
+Houston Texans,2014
+Houston Texans,2013
+Houston Texans,2012
+Houston Texans,2011
+Philadelphia Eagles,2028
+Philadelphia Eagles,2027
+Philadelphia Eagles,2026
+Philadelphia Eagles,2025
+Philadelphia Eagles,2024
+Philadelphia Eagles,2023
+Philadelphia Eagles,2022
+Philadelphia Eagles,2021
+Philadelphia Eagles,2020
+Philadelphia Eagles,2019
+Philadelphia Eagles,2018
+Philadelphia Eagles,2017
+Philadelphia Eagles,2016
+Philadelphia Eagles,2015
+Philadelphia Eagles,2014
+Philadelphia Eagles,2013
+Philadelphia Eagles,2012
+Philadelphia Eagles,2011
+Seattle Seahawks,2028
+Seattle Seahawks,2027
+Seattle Seahawks,2026
+Seattle Seahawks,2025
+Seattle Seahawks,2024
+Seattle Seahawks,2023
+Seattle Seahawks,2022
+Seattle Seahawks,2021
+Seattle Seahawks,2020
+Seattle Seahawks,2019
+Seattle Seahawks,2018
+Seattle Seahawks,2017
+Seattle Seahawks,2016
+Seattle Seahawks,2015
+Seattle Seahawks,2014
+Seattle Seahawks,2013
+Seattle Seahawks,2012
+Seattle Seahawks,2011
+New York Jets,2028
+New York Jets,2027
+New York Jets,2026
+New York Jets,2025
+New York Jets,2024
+New York Jets,2023
+New York Jets,2022
+New York Jets,2021
+New York Jets,2020
+New York Jets,2019
+New York Jets,2018
+New York Jets,2017
+New York Jets,2016
+New York Jets,2015
+New York Jets,2014
+New York Jets,2013
+New York Jets,2012
+New York Jets,2011
+Kansas City Chiefs,2028
+Kansas City Chiefs,2027
+Kansas City Chiefs,2026
+Kansas City Chiefs,2025
+Kansas City Chiefs,2024
+Kansas City Chiefs,2023
+Kansas City Chiefs,2022
+Kansas City Chiefs,2021
+Kansas City Chiefs,2020
+Kansas City Chiefs,2019
+Kansas City Chiefs,2018
+Kansas City Chiefs,2017
+Kansas City Chiefs,2016
+Kansas City Chiefs,2015
+Kansas City Chiefs,2014
+Kansas City Chiefs,2013
+Kansas City Chiefs,2012
+Kansas City Chiefs,2011
+Atlanta Falcons,2028
+Atlanta Falcons,2027
+Atlanta Falcons,2026
+Atlanta Falcons,2025
+Atlanta Falcons,2024
+Atlanta Falcons,2023
+Atlanta Falcons,2022
+Atlanta Falcons,2021
+Atlanta Falcons,2020
+Atlanta Falcons,2019
+Atlanta Falcons,2018
+Atlanta Falcons,2017
+Atlanta Falcons,2016
+Atlanta Falcons,2015
+Atlanta Falcons,2014
+Atlanta Falcons,2013
+Atlanta Falcons,2012
+Atlanta Falcons,2011
+Cincinnati Bengals,2028
+Cincinnati Bengals,2027
+Cincinnati Bengals,2026
+Cincinnati Bengals,2025
+Cincinnati Bengals,2024
+Cincinnati Bengals,2023
+Cincinnati Bengals,2022
+Cincinnati Bengals,2021
+Cincinnati Bengals,2020
+Cincinnati Bengals,2019
+Cincinnati Bengals,2018
+Cincinnati Bengals,2017
+Cincinnati Bengals,2016
+Cincinnati Bengals,2015
+Cincinnati Bengals,2014
+Cincinnati Bengals,2013
+Cincinnati Bengals,2012
+Cincinnati Bengals,2011
+Chicago Bears,2028
+Chicago Bears,2027
+Chicago Bears,2026
+Chicago Bears,2025
+Chicago Bears,2024
+Chicago Bears,2023
+Chicago Bears,2022
+Chicago Bears,2021
+Chicago Bears,2020
+Chicago Bears,2019
+Chicago Bears,2018
+Chicago Bears,2017
+Chicago Bears,2016
+Chicago Bears,2015
+Chicago Bears,2014
+Chicago Bears,2013
+Chicago Bears,2012
+Chicago Bears,2011
+Denver Broncos,2028
+Denver Broncos,2027
+Denver Broncos,2026
+Denver Broncos,2025
+Denver Broncos,2024
+Denver Broncos,2023
+Denver Broncos,2022
+Denver Broncos,2021
+Denver Broncos,2020
+Denver Broncos,2019
+Denver Broncos,2018
+Denver Broncos,2017
+Denver Broncos,2016
+Denver Broncos,2015
+Denver Broncos,2014
+Denver Broncos,2013
+Denver Broncos,2012
+Denver Broncos,2011
+Green Bay Packers,2028
+Green Bay Packers,2027
+Green Bay Packers,2026
+Green Bay Packers,2025
+Green Bay Packers,2024
+Green Bay Packers,2023
+Green Bay Packers,2022
+Green Bay Packers,2021
+Green Bay Packers,2020
+Green Bay Packers,2019
+Green Bay Packers,2018
+Green Bay Packers,2017
+Green Bay Packers,2016
+Green Bay Packers,2015
+Green Bay Packers,2014
+Green Bay Packers,2013
+Green Bay Packers,2012
+Green Bay Packers,2011
+Los Angeles Chargers,2028
+Los Angeles Chargers,2027
+Los Angeles Chargers,2026
+Los Angeles Chargers,2025
+Los Angeles Chargers,2024
+Los Angeles Chargers,2023
+Los Angeles Chargers,2022
+Los Angeles Chargers,2021
+Los Angeles Chargers,2020
+Los Angeles Chargers,2019
+Los Angeles Chargers,2018
+Los Angeles Chargers,2017
+Los Angeles Chargers,2016
+Los Angeles Chargers,2015
+Los Angeles Chargers,2014
+Los Angeles Chargers,2013
+Los Angeles Chargers,2012
+Los Angeles Chargers,2011
+Baltimore Ravens,2028
+Baltimore Ravens,2027
+Baltimore Ravens,2026
+Baltimore Ravens,2025
+Baltimore Ravens,2024
+Baltimore Ravens,2023
+Baltimore Ravens,2022
+Baltimore Ravens,2021
+Baltimore Ravens,2020
+Baltimore Ravens,2019
+Baltimore Ravens,2018
+Baltimore Ravens,2017
+Baltimore Ravens,2016
+Baltimore Ravens,2015
+Baltimore Ravens,2014
+Baltimore Ravens,2013
+Baltimore Ravens,2012
+Baltimore Ravens,2011
