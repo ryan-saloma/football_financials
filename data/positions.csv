@@ -1,0 +1,27 @@
+pos_short,pos_long,unit
+RB,running back,offense
+RT,right tackle,offense
+CB,cornerback,defense
+WR,wide receiver,offense
+K,kicker,special teams
+FB,fullback,offense
+LS,long snapper,special teams
+QB,quarterback,offense
+DE,defensive end,defense
+C,center,offense
+OLB,outside linebacker,defense
+FS,free safety,defense
+TE,tight end,offense
+G,guard,offense
+LT,left tackle,offense
+DT,defensive tackle,defense
+SS,strong safety,defense
+P,punter,special teams
+ILB,inside linebacker,defense
+S,safety,defense
+KR,kick returned,special teams
+LB,linebacker,defense
+T,tackle,offense
+OL,offensive line,offense
+WLB,weakside linebacker,defense
+PR,punt returner,special teams
